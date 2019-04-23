@@ -1,4 +1,0 @@
-#Tue Apr 23 14:05:57 CST 2019
-base.0=F\:\\test\\map\\example\\build-flat-Qt_5_10_0_for_Android_armv7-Debug\\android-build\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex
