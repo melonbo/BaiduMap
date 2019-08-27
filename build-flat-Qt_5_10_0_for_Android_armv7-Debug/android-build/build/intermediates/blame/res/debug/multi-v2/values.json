@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\test\\map\\example\\build-flat-Android_for_armeabi_v7a_GCC_4_9_Qt_5_10_0_for_Android_armv7-Debug\\android-build\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\Qt\\Qt5.10.0\\5.10.0\\android_armv7\\src\\android\\java\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "5,4,3,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "324,201,88,433",
+                        "endColumns": "107,121,111,84",
+                        "endOffsets": "427,318,195,513"
+                    },
+                    "to": {
+                        "startLines": "334,335,336,337",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "41329,41437,41559,41671",
+                        "endColumns": "107,121,111,84",
+                        "endOffsets": "41432,41554,41666,41751"
+                    }
+                },
+                {
+                    "source": "F:\\test\\map\\example\\build-flat-Android_for_armeabi_v7a_GCC_4_9_Qt_5_10_0_for_Android_armv7-Debug\\android-build\\res\\values\\libs.xml",
+                    "from": {
+                        "startLines": "64,27,9,13,2",
+                        "startColumns": "4,4,4,5,4",
+                        "startOffsets": "4166,663,300,360,57",
+                        "endLines": "339,63,11,25,4",
+                        "endColumns": "12,12,12,13,12",
+                        "endOffsets": "41470,4160,351,655,169"
+                    },
+                    "to": {
+                        "startLines": "2,278,315,318,331",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,37362,40862,40916,41214",
+                        "endLines": "277,314,317,330,333",
+                        "endColumns": "12,12,12,13,12",
+                        "endOffsets": "37357,40857,40911,41209,41324"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\test\\map\\example\\build-flat-Android_for_armeabi_v7a_GCC_4_9_Qt_5_10_0_for_Android_armv7-Debug\\android-build\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr\\values-fr.xml",
+            "map": [
+                {
+                    "source": "E:\\Qt\\Qt5.10.0\\5.10.0\\android_armv7\\src\\android\\java\\res\\values-fr\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "307,184,57",
+                        "endColumns": "117,121,125",
+                        "endOffsets": "420,301,178"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,173,295",
+                        "endColumns": "117,121,125",
+                        "endOffsets": "168,290,416"
+                    }
+                }
+            ]
+        }
+    ]
+}
